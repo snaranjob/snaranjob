@@ -1,4 +1,4 @@
-## Hi, I'm Sofía🌸
+## 🌸Hi, I'm Sofía🌸
 
 <h3 align="left">Physics student, minor in Biology at Universidad de los Andes in Bogotá, Colombia</h3>
 
