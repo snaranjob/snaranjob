@@ -1,6 +1,6 @@
-## 🌸Hi, I'm Sofía🌸
+## Hi, I'm Sofía🌸
 
-<h3 align="left">Physics student, minor in Biology at Universidad de los Andes in Bogotá, Colombia</h3>
+<h3 align="left">⭐Physics student, minor in Biology at Universidad de los Andes in Bogotá, Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snaranjob&label=Profile%20views&color=0e75b6&style=flat" alt="snaranjob" /> </p>
 
