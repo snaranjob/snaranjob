@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snaranjob&label=Profile%20views&color=0e75b6&style=flat" alt="snaranjob" /> </p>
 
-- Interested in High-energy physics and Medical Physics, particularly drawn to **x-ray techniques, particle detector simulations and visualization and analysis of images produced by x-rays**.
+- Interested in High-energy physics and Medical Physics, particularly drawn to **x-ray techniques, particle detector simulations and visualization and analysis of medical images**.
 - How to reach me:  **s.naranjob@uniandes.edu.co**
 - Connect with me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sofía-naranjo-barros/)
 
